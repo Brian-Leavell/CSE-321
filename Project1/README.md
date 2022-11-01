@@ -1,5 +1,5 @@
 # CSE-321 Project 1 Overview
-A documentaion repository that will be updated as the semester progresses
+This project worked on developing good commenting skills, as well as good code organization and being able to abstract functionality from code that was designed very poorly.
 
 ## Algorithm To Approach Problems
 [Algorithm](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project1/321%20Algorithm%20(1).pdf)
