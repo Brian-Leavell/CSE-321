@@ -11,5 +11,5 @@ For this project, we were tasked with designing a system that uses an external m
 
 
 ## References
-[Project 2 Handout]()
+[Project 2 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project2/Project%202%20Overview.pdf)
 * This document contains the details for Project 2, and the midpoint submission requirements.
