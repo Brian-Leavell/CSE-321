@@ -88,7 +88,6 @@ Same goes if the variable is a 0.
 
 ## References
 [Project 2 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project2/Project%202%20Overview.pdf)
-* This document contains the details for Project 2, and the midpoint submission requirements.
 
 [Nucleo Refernce PDF](https://www.st.com/resource/en/user_manual/dm00368330-stm32-nucleo-144-boards-mb1312-stmicroelectronics.pdf)
 
