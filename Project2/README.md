@@ -26,6 +26,7 @@ If the wrong 4 digit code is entered, the screen will display an error message
 * Wiring Kit
 * Resistors
 * Keypad
+* LCD screen
 
 ## Getting Started
 Open up MBed studio on a computer and connect your nucleo to it using the data cable. Find the correct ports on the nucleo that are being used in this program, and connect the wires from the nucleo into the keypad. Another wire
