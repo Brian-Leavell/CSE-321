@@ -1,16 +1,14 @@
 /*
 Header
 Name: Brian Leavell
-Assignment: Project 2
-Purpose: After ther correct 4 digits are entered, the system will either unlock or lock
-Date of Creation: 10/10/2022 
-Modules: Main, 
-Inputs: Matrix keypad
-Outputs: LCD, LEDs
+Assignment: Project 3
+Purpose: Monitor temperature and humidity of environment
+Date of Creation: 11/18/2022 
+Modules:
+Inputs: Matrix keypad, DHT11
+Outputs: LCD, LEDs, Dot matrix array
 Assignment Restrictions: 
-      -Register must be controlled bitwise
-      -bounce must be addressed
-      -One ISR and interrupt must be implemented
+     
 References: Nucleo Manual/Pin layout - https://os.mbed.com/platforms/ST-Nucleo-L552ZE-Q
             MBed Handbook/Documentation Guide: https://os.mbed.com/handbook
 */ 
