@@ -2,4 +2,7 @@
 
 |Keyword | Definition| Purpose| Link| Page(s) to reference| Explanation of Relevancy|
 |:-------|:-------|:-------|:-------|:-------|:-------|
-|TBD|TBD |TBD|TBD|TBD|TBD|
+|NUCLEO-L552ZE Manual|Displays the pin layouts for the nucleo |Will help with the setup for the project|[MANUAL](https://os.mbed.com/platforms/ST-Nucleo-L552ZE-Q/)| n/A|When the program and hardware are presented to a new user, the user can reference this manual to properly set up and wire the external hardware needed for this system|
+|MBed Studios Manual| Refernce manual for the operation of MBed studios| If an issue is encountered that involves syntax or setup issues, this manual can be referenced| [MANUAL](https://os.mbed.com/docs/mbed-studio/current/introduction/index.html)| n/A | Errors are inevitable, so reference this manual if MBed is presenting an error that does not make sense|
+|DHT11 Overview| Overview of DHT11 Temperature sensor| This link explains the purpose of the DHT11 sensor as well as the accuracy of its readings| [OVERVIEW](https://learn.adafruit.com/dht)| n/A | This can be refernced if a user needs to know the accuracy of the sensor's readings or required power for use| 
+|Critical Section/Threads| Explanation of what threads and the critical section are| This will allow a quick brush-up on what the critical section is as well as how to prevent race conditions| [CRIT/THREADS](https://jenkov.com/tutorials/java-concurrency/race-conditions-and-critical-sections.html#:~:text=A%20critical%20section%20is%20a,execution%20of%20the%20critical%20section.)| n/A | If thread races or the critical section is unknown to the user, this can be referenced to further ellaborate on the topic|
