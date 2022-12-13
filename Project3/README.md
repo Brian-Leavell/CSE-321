@@ -36,7 +36,7 @@ Open up MBed studio on a computer and connect your nucleo to it using the data c
 The dot matrix array and LCD should be connected already, if not, find the correct ports and pins to plug into to set them up. Under the specified section, input the range of temperatures and humidities that are ideal for
 the specific plantlife that is being monitored, as well as the levels that are "dangerous" or poor for the plants. Once the values have been set, run the program. Pushing the star key (*) will display the current temperature
 to the LCD, and pushing the pound key (#) will display the current humidity. The dot matrix array should display one of three messages based on the current data depending on what numbers were set before running the program.
-##Things Declared
+## Things Declared
 
 **Variables** - Tempcheck, Humcheck, sta, temp, hum. tempGood, tempMod, tempBad, humGood, humMod, humBad, timeout
 
@@ -105,6 +105,7 @@ This simple function will visually let the user see the system running by making
 [lcd1602.h File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/lcd1602.h)
 
 [lcd1602.cpp File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/lcd1602.cpp)
+
 
 ## References
 [Project 3 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/CSE321%20Project%203%20Fall%202022.pdf)
