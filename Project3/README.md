@@ -38,24 +38,38 @@ the specific plantlife that is being monitored, as well as the levels that are "
 to the LCD, and pushing the pound key (#) will display the current humidity. The dot matrix array should display one of three messages based on the current data depending on what numbers were set before running the program.
 ##Things Declared
 
-Variables - TBD
-Functions - TBD
-Libraries - mbed.h, lcd1602.h, cstdio, cstring, string, iostream, rtos.h, DHT.h, mbed_events.h, MD_Parola.h, MD_MAXX72xx.h, SPI.h
-API - InterruptIn, DigitalOut, WatchDog, Event Queue, Threads
+**Variables** - Tempcheck, Humcheck, sta, temp, hum. tempGood, tempMod, tempBad, humGood, humMod, humBad, timeout
 
-##API and Built In Elements Used
+**Functions** - Online, Temp, Hum, row4, Vcycle, stastus, operation
+
+**Libraries** - mbed.h, lcd1602.h, cstdio, cstring, string, iostream, rtos.h, DHT.h, mbed_events.h, MD_Parola.h, MD_MAXX72xx.h, SPI.h
+
+**API** - InterruptIn, DigitalOut, WatchDog, Event Queue, Threads
+
+## API and Built In Elements Used
 
 InterruptIn
+
 DigitalOut
+
 enable_irq
+
 .rise
+
 thread_sleep_for
+
 WatchDog Timer
+
 Event Queue
+
 Mutex
+
 CSE321_LCD
+
 DHT11
+
 MD_Parola dotarray
+
 ## Custom Functions
 
 ### ***Online:***
