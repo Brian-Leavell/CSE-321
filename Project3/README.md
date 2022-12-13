@@ -106,6 +106,9 @@ This simple function will visually let the user see the system running by making
 
 [lcd1602.cpp File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/lcd1602.cpp)
 
+[DHT11.h](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/DHT.h)
+
+[DHT11.cpp](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/DHT.cpp)
 
 ## References
 [Project 3 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/CSE321%20Project%203%20Fall%202022.pdf)
