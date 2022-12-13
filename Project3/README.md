@@ -86,6 +86,11 @@ This simple function will visually let the user see the system running by making
 
 ## Files Used In This Program
 
+[main.cpp File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/main.cpp)
+
+[lcd1602.h File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/lcd1602.h)
+
+[lcd1602.cpp File](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/lcd1602.cpp)
 
 ## References
 [Project 3 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/CSE321%20Project%203%20Fall%202022.pdf)
