@@ -6,7 +6,7 @@ files were found in is linked in the README.md on the main project tab.
 
 Since there were too many files to list and upload, this is a simple receipt to show that external libraries will be needed.
 
-**Please visit the following links to obtain all of the required files**
+**Please visit the following links to obtain all of the required files:**
 
 https://github.com/MajicDesigns/MD_MAX72xx
 
