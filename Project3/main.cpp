@@ -218,6 +218,7 @@ void row4(void){
     //ANDing values to see which button was pressed
     int x = GPIOC->ODR & 0x100;
     int z = GPIOC->ODR & 0x400;
+    printf("A button was pushed");
 
     // * pushed
     if (x != 0){
