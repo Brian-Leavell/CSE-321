@@ -26,7 +26,7 @@ A dot matrix array will allow the user to see if the environment has ideal condi
 - DHT11 Sensor
 - Nucleo L4R5ZI
 - MBed Studio
-- 3 LEDs (Red, yellow, green)
+- 4 LEDs (Red, Yellow, Green Required)
 - Dot matrix array
 - Breadboard
 - Wiring Kit
