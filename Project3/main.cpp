@@ -172,7 +172,6 @@ int main()
         else if (Humcheck == 1){   //user requested to see live humidity reading
             Hum();
         }
-        doggo.kick();
     }
         return 0;
 }
@@ -211,17 +210,7 @@ void Vcycle (){
     thread_sleep_for(100);
 }
 
-// //Button pressed in row 4
-// void row1(void){
-//     //ANDing values to see which button was pressed
-//     int v = GPIOC->ODR & 0x800;
 
-//     // A pushed
-//     if (v != 0){
-//        on = 1;
-//        threadLED.start(operation);
-//     }
-// }
 //Button pressed in row 4
 void row4(void){
    
