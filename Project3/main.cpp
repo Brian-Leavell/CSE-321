@@ -90,7 +90,6 @@ EventQueue queue(32*EVENTS_EVENT_SIZE);
 
 // Interrupt for button pushed in row 4
 InterruptIn pressed4 (PD_6, PullDown);
-InterruptIn pressed1 (PD_3,PullDown);
 
 //Monitoring LEDs for temperature and humidity ranges
 DigitalOut greenLED (PA_3);
