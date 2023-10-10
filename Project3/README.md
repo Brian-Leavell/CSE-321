@@ -111,7 +111,7 @@ This simple function will visually let the user see the system running by making
 [DHT11.cpp](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/DHT.cpp)
 
 ## References
-[Project Slideshow Presentation] (https://github.com/Brian-Leavell/CSE-321/blob/main/Project3/CSE321_project3_%20bsleavel_%20report.pdf)
+[Project Slideshow Presentation](https://github.com/Brian-Leavell/CSE-321/blob/main/Project3/CSE321_project3_%20bsleavel_%20report.pdf)
 
 [Project 3 Handout](https://github.com/Brian-Leavell/CSE321-Course-Progress/blob/main/Project3/CSE321%20Project%203%20Fall%202022.pdf)
 
